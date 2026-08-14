@@ -11,7 +11,7 @@ git clone <repo-url>
 cd grasp
 ```
 
-2. Create a virtual environment (Python 3.10+ recommended):
+2. Create a virtual environment (Python 3.12.7 recommended):
 
 ```bash
 python -m venv .venv
