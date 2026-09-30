@@ -1,0 +1,10 @@
+# Additional dependencies for grasp_contextualization (PIDS analysis engine +
+# workbench), on top of the repo root's requirements.txt and its torch /
+# torch_geometric install instructions.
+#
+# Install with:
+#   pip install -r grasp_contextualization/requirements.txt
+
+streamlit==1.61.1
+plotly==6.9.0
+networkx==3.6.1

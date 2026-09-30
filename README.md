@@ -80,6 +80,12 @@ If everything runs on the same host and you followed [db_setup README](db_setup/
 python main.py --experiment-config grasp/experiments/all_experiments/cadets_e3_default/experiment_cadets_e3.yaml
 ```
 
+## Contextualization
+
+See the [contextualization README](grasp_contextualization/README.md) for the
+code accompanying the TrustAICyberSec'26 publication. A link to the paper is
+coming soon.
+
 
 ## License
 
