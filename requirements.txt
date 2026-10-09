@@ -8,7 +8,7 @@ pandas==2.3.3
 scikit-learn==1.8.0
 matplotlib==3.10.8
 gdown==5.2.1
-
+SQLAlchemy==2.0.51
 
 # pip install torch==2.8.0 torchvision==0.23.0 torchaudio==2.8.0
 # pip install torch_geometric
